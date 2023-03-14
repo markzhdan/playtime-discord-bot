@@ -1,4 +1,4 @@
-# Playtime Bot
+# Playtime Discord Bot
 Discord bot for Ivory SMP discord server
 
 # Purpose
